@@ -1,0 +1,2 @@
+# EDStocks
+App Streamlit.
